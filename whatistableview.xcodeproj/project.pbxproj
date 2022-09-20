@@ -16,6 +16,7 @@
 		72ADF22D28D9BD8000CC6929 /* whatistableviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72ADF22C28D9BD8000CC6929 /* whatistableviewTests.swift */; };
 		72ADF23728D9BD8000CC6929 /* whatistableviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72ADF23628D9BD8000CC6929 /* whatistableviewUITests.swift */; };
 		72ADF23928D9BD8000CC6929 /* whatistableviewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72ADF23828D9BD8000CC6929 /* whatistableviewUITestsLaunchTests.swift */; };
+		72ADF24628D9C6EF00CC6929 /* CustomTableVIewCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72ADF24528D9C6EF00CC6929 /* CustomTableVIewCellTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		72ADF23228D9BD8000CC6929 /* whatistableviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = whatistableviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72ADF23628D9BD8000CC6929 /* whatistableviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whatistableviewUITests.swift; sourceTree = "<group>"; };
 		72ADF23828D9BD8000CC6929 /* whatistableviewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whatistableviewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		72ADF24528D9C6EF00CC6929 /* CustomTableVIewCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableVIewCellTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				72ADF21E28D9BD8000CC6929 /* Assets.xcassets */,
 				72ADF22028D9BD8000CC6929 /* LaunchScreen.storyboard */,
 				72ADF22328D9BD8000CC6929 /* Info.plist */,
+				72ADF24528D9C6EF00CC6929 /* CustomTableVIewCellTableViewCell.swift */,
 			);
 			path = whatistableview;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				72ADF21A28D9BD8000CC6929 /* ViewController.swift in Sources */,
 				72ADF21628D9BD8000CC6929 /* AppDelegate.swift in Sources */,
+				72ADF24628D9C6EF00CC6929 /* CustomTableVIewCellTableViewCell.swift in Sources */,
 				72ADF21828D9BD8000CC6929 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
